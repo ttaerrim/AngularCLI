@@ -47,3 +47,5 @@ import { AppComponent } from './app.component';
 })
 export class AppModule { }
 ```
+`@NgModule`이라는 데코레이터 
+AppModule은 Angular의 root model을 설정하는 클래스
